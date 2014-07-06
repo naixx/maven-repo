@@ -2,13 +2,11 @@
 <metadata>
   <groupId>com.jakewharton.paraphrase</groupId>
   <artifactId>paraphrase</artifactId>
-  <version>1.0.3-SNAPSHOT</version>
+  <version>1.0.5-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>1.0.3-SNAPSHOT</version>
-      <version>1.0.4-SNAPSHOT</version>
-      <version>1.0.5-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
     <lastUpdated>20140706230033</lastUpdated>
   </versioning>
 </metadata>
