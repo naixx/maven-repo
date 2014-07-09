@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.jakewharton.paraphrase</groupId>
+  <artifactId>paraphrase</artifactId>
+  <version>1.0.9-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20140709090714</lastUpdated>
+  </versioning>
+</metadata>
